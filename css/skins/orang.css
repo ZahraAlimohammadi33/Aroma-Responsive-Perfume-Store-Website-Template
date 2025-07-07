@@ -1,0 +1,25 @@
+header ,
+.home, .testimonial::before, .newsletter::before{
+    background-color: #BF360C;
+}
+
+.home-btn, .about li svg,.features-item svg, .client-info-desc h5, .testimonial .owl-carousel .owl-nav button.owl-next,
+.testimonial .owl-carousel .owl-nav button.owl-prev, .contact-item svg, footer ul li:hover svg{
+    color: #BF360C ;
+}
+
+
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev, .title h6, .features-item:hover, .testimonial .owl-carousel .owl-nav button.owl-next:hover,
+.testimonial .owl-carousel .owl-nav button.owl-prev:hover, .news-letter-form button, .contact-form button, footer{
+    background: #BF360C;
+    color: #fff;
+}
+
+.contact-form button{
+    border: 3px solid #BF360C !important;
+}
+
+.contact-form input:focus, .contact-form textarea:focus{
+    border-bottom: 2px solid #BF360C;
+}
