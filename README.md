@@ -21,16 +21,6 @@ https://aroma-responsive-perfume-store-webs.vercel.app/
 
 ---
 
-## 📸 Screenshots
-
-### 🖼️ Homepage — Hero Section  
-![Homepage Screenshot](assets/screenshots/home-hero.png)
-
-### 🛍️ Product Carousel  
-![Products Screenshot](assets/screenshots/product-list.png)
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5**
