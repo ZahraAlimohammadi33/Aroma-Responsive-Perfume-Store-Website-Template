@@ -1,46 +1,53 @@
-
 # 🧴 Aroma – Responsive Perfume Store Website Template
 
-A clean, elegant, and fully responsive website template designed for a modern **perfume store** or fragrance shop. Built using HTML5, CSS3, and popular frontend libraries, this static site is perfect for showcasing products, brand identity, and promotions with a focus on visual appeal and RTL language support.
+A clean, elegant, and fully responsive website template designed for a modern **perfume store** or fragrance shop. Built with pure HTML, CSS, and popular frontend libraries, this template focuses on visual elegance, smooth interactions, and RTL support for Persian users.
 
+🔗 **Live Demo:**  
+https://aroma-responsive-perfume-store-webs.vercel.app/
+
+---
 
 ## 🚀 Features
 
-- 🌐 **Responsive layout** – built with Bootstrap 5 (mobile-first)
-- 🎨 **Multiple theme skins** – color variations included
-- 🔤 **RTL support** – optimized for Persian using Vazir font
-- 🖼️ **Hero sections and product banners**
-- 🔁 **Carousel sliders** – powered by Owl Carousel
-- 💡 **Icon integration** – with FontAwesome
-- ⚡ Lightweight, fast, and deploy-ready
+- 🌐 **Fully Responsive** — built with Bootstrap 5 (mobile-first)
+- 🎨 **Multiple Theme Skins** — various color palettes included
+- 🔤 **Full RTL Support** — includes Vazir font for a clean Persian UI
+- 🖼️ **Hero Sections & Promotional Banners**
+- 🛍️ **Product Grid with Pricing**
+- 🔁 **Owl Carousel Sliders**
+- ⭐ **Modern & Clean UI**
+- ⚡ **Lightweight and fast**
+- 🧩 **Modular structure and easy customization**
 
+---
 
+## 📸 Screenshots
+
+### 🖼️ Homepage — Hero Section  
+![Homepage Screenshot](assets/screenshots/home-hero.png)
+
+### 🛍️ Product Carousel  
+![Products Screenshot](assets/screenshots/product-list.png)
+
+---
 
 ## 🛠️ Technologies Used
 
 - **HTML5**
 - **CSS3**
+- **JavaScript (Vanilla)**
 - **Bootstrap 5**
-- **FontAwesome**
+- **FontAwesome Icons**
 - **Owl Carousel**
-- **Vazir Font** (for Persian RTL content)
-
-
-
-## 🧪 How to Use
-
-1. Clone or download the repository:
-2. Open `index.html` in your preferred browser.
+- **Vazir Font (RTL)**
 
 ---
 
-## 📦 Deployment
+## 🧪 How to Use
 
-You can deploy this project easily to:
+1. Clone the project:
+   ```bash
+   git clone https://github.com/ZahraAlimohammadi33/Aroma-Responsive-Perfume-Store-Website-Template.git
+   ```
+2. Open `index.html`
 
-* **GitHub Pages**
-* **Netlify**
-* **Vercel**
-* **Firebase Hosting**
-
-No build step is required – just upload the contents.
