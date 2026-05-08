@@ -9,15 +9,15 @@ https://aroma-responsive-perfume-store-webs.vercel.app/
 
 ## 🚀 Features
 
-- 🌐 **Fully Responsive** — built with Bootstrap 5 (mobile-first)
-- 🎨 **Multiple Theme Skins** — various color palettes included
-- 🔤 **Full RTL Support** — includes Vazir font for a clean Persian UI
-- 🖼️ **Hero Sections & Promotional Banners**
-- 🛍️ **Product Grid with Pricing**
-- 🔁 **Owl Carousel Sliders**
-- ⭐ **Modern & Clean UI**
-- ⚡ **Lightweight and fast**
-- 🧩 **Modular structure and easy customization**
+-  **Fully Responsive** — built with Bootstrap 5 (mobile-first)
+-  **Multiple Theme Skins** — various color palettes included
+-  **Full RTL Support** — includes Vazir font for a clean Persian UI
+-  **Hero Sections & Promotional Banners**
+-  **Product Grid with Pricing**
+-  **Owl Carousel Sliders**
+-  **Modern & Clean UI**
+-  **Lightweight and fast**
+-  **Modular structure and easy customization**
 
 ---
 
